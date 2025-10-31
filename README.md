@@ -270,7 +270,19 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📸 Screenshots
 
-_Add screenshots of your drawings here!_
+### Startup Screen
+![Startup Screen](screenshots/2025-10-31%2001.14.37.jpg)
+
+### Example Drawings
+
+Example artwork created with the Drawing App:
+
+![Drawing Example 1](screenshots/draw_004.bmp)
+![Drawing Example 2](screenshots/draw_006.bmp)
+![Drawing Example 3](screenshots/draw_007.bmp)
+![Drawing Example 4](screenshots/draw_010.bmp)
+
+_More screenshots available in [screenshots/](screenshots/) folder_
 
 ---
 
